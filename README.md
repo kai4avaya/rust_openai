@@ -15,7 +15,7 @@ This is a simple console-based application that interacts with the OpenAI ChatGP
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/chatgpt-console.git
+   git clone https://github.com/kai4avaya/chatgpt-console.git
    ```
 
 2. **Install Rust**: If you haven't already, you'll need to install Rust. You can do this using Rust's official installer, `rustup`, available at [rustup.rs](https://rustup.rs/).
@@ -36,7 +36,7 @@ This is a simple console-based application that interacts with the OpenAI ChatGP
 
 ## Contributors
 
-- Your Name (@yourgithubusername)
+- Kai Kleinbard (@kai4avaya)
 
 ## License
 
